@@ -14,3 +14,6 @@
 
 Data path: 
 https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
+
+
+URI: 019212531571.dkr.ecr.us-east-1.amazonaws.com/text-s
